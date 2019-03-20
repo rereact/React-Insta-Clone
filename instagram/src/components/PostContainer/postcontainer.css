@@ -1,0 +1,17 @@
+.account {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pfp {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+
+.postimg {
+    width: 300px;
+    height: 300px;
+}
