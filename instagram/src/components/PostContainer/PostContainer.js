@@ -5,7 +5,7 @@ import './postcontainer.css'
 const PostContainer = props => {
     return(
         <div>
-            {props.data.map(post => <p><EachPost data={post}/></p>)}    
+            {props.data.map(post => <p><EachPost data={post}/></p>)}
         </div>
     )
 }
